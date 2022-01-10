@@ -1,4 +1,7 @@
-# MohammadAsadi.MasterService
+# Mohammad-Asadi.MasterService
+
+
+
 
 Create this service only with the settings in appsetting and use it easily
 
